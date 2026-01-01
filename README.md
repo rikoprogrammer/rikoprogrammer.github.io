@@ -1,9 +1,8 @@
 
-## Welcome to my website
 
 ## Professional Summary
 
-A dedicated and detail-oriented Statistical Programmer with 6+ years of proven
+I am a dedicated and detail-oriented Statistical Programmer with 6+ years of proven
 track record in designing, implementing, and validating statistical models
 to extract meaningful insights from complex data sets. Hands-on experience in
 conducting statistical programming for clinical trial research projects within
@@ -19,4 +18,10 @@ management and fraud detection strategies.
 Therapeutic Area Experience: Oncology, Pediatrics, Respiratory and
 Cardiovascular. A proven team player with excellent interpersonal and
 communication skills.
+
+## Educational Background
+
+**Msc in Statistical Science - Strathmore University (2023 - 2026)**
+
+**Bsc in Mathematics - Masinde Muliro University (2011 - 2015)**
 
