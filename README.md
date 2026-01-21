@@ -20,7 +20,7 @@ Therapeutic Area Experience: Oncology, Pediatrics, Respiratory and
 Cardiovascular. A proven team player with excellent interpersonal and
 communication skills.
 
-Other platforms that you find me include LinkedIn and GitHub:
+Other platforms that you can find me include LinkedIn and GitHub:
 
 [LinkedIn](https://www.linkedin.com/in/eric-odongo-84177ba2)
 
