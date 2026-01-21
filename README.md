@@ -30,22 +30,25 @@ communication skills.
 
 ## Personal Projects
 
-**Shiny application**
+### Shiny application
 
 I developed this shiny application to meet the requirements of a client on Upwork. They wanted a platform where they could
 upload their data and try out a number of statistical and machine learning models.
 
 Link to the app: https://4lt3sb-eric-odongo.shinyapps.io/shinyApp/
 
-**Book project**
+[Shiny App](https://4lt3sb-eric-odongo.shinyapps.io/shinyApp/)
+
+### Book project
 
 I am currently working on a book that teaches people how to perform statistical
 programming in the pharmaceutical industry using R programming language.
 
 Link to the book: https://statsprogrammingbook.netlify.app/
 
-**Consulting Firm**
+### Consulting Firm
 
 I am currently setting up a consulting firm where I will be offering statistical consultancy services in Data Science,
 clinical trials, and other data related topics.
 
+Link to the website: https://epm-square-analytics.netlify.app/
