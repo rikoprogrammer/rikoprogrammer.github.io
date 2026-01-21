@@ -20,7 +20,10 @@ Therapeutic Area Experience: Oncology, Pediatrics, Respiratory and
 Cardiovascular. A proven team player with excellent interpersonal and
 communication skills.
 
+Other platforms that you find me include LinkedIn and GitHub:
+
 [LinkedIn](www.linkedin.com/in/eric-odongo-84177ba2)
+
 [GitHub](https://github.com/rikoprogrammer)
 
 ## Educational Background
