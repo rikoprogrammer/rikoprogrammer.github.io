@@ -1,4 +1,16 @@
 
+---
+title: "Welcome to my personal website"
+output: html_document
+---
+
+
+<div align="center">
+  <img src="images/passport.jpeg" alt="Centered Image" width="50%">
+</div>
+
+![image](images/passport.jpeg)
+
 
 ## Professional Summary
 
