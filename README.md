@@ -22,7 +22,7 @@ communication skills.
 
 Other platforms that you find me include LinkedIn and GitHub:
 
-[LinkedIn](www.linkedin.com/in/eric-odongo-84177ba2)
+[LinkedIn](https://www.linkedin.com/in/eric-odongo-84177ba2)
 
 [GitHub](https://github.com/rikoprogrammer)
 
