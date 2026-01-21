@@ -22,11 +22,17 @@ communication skills.
 
 ## Educational Background
 
-**Msc in Statistical Science - Strathmore University (2023 - 2026)**
+- Msc in Statistical Science - Strathmore University (2023 - 2026)
 
-**Bsc in Mathematics - Masinde Muliro University (2011 - 2015)**
+- Bsc in Mathematics - Masinde Muliro University (2011 - 2015)
 
 ## Work Experience
+
+- Senior Statistical Programmer - IQVIA - Nov 2025 to date
+- Senior Data Scientist - Co-op Bank - May - Nov 2025
+- Senior Statistical Programmer - Keyrus Life Science - March 2025 - Sep 2025
+- Statistical Programmer - MainAnalytics GmbH - May 2024 - March 2025
+- Statistical Programmer - Phastar - Feb 2021 - March 2024
 
 ## Personal Projects
 
@@ -35,7 +41,6 @@ communication skills.
 I developed this shiny application to meet the requirements of a client on Upwork. They wanted a platform where they could
 upload their data and try out a number of statistical and machine learning models.
 
-Link to the app: https://4lt3sb-eric-odongo.shinyapps.io/shinyApp/
 
 [Shiny App](https://4lt3sb-eric-odongo.shinyapps.io/shinyApp/)
 
@@ -44,11 +49,12 @@ Link to the app: https://4lt3sb-eric-odongo.shinyapps.io/shinyApp/
 I am currently working on a book that teaches people how to perform statistical
 programming in the pharmaceutical industry using R programming language.
 
-Link to the book: https://statsprogrammingbook.netlify.app/
+[Book](https://statsprogrammingbook.netlify.app/)
 
 ### Consulting Firm
 
 I am currently setting up a consulting firm where I will be offering statistical consultancy services in Data Science,
 clinical trials, and other data related topics.
 
-Link to the website: https://epm-square-analytics.netlify.app/
+
+[EPM](https://epm-square-analytics.netlify.app/)
