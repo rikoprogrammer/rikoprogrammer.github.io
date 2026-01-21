@@ -25,3 +25,13 @@ communication skills.
 
 **Bsc in Mathematics - Masinde Muliro University (2011 - 2015)**
 
+## Work Experience
+
+## Personal Projects
+
+**Shiny application**
+
+**Book project**
+
+**Consulting Firm**
+
