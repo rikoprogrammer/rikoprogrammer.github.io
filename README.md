@@ -1,5 +1,5 @@
 
-
+# Welcome to my personal website
 
 ## Professional Summary
 
@@ -19,6 +19,9 @@ management and fraud detection strategies.
 Therapeutic Area Experience: Oncology, Pediatrics, Respiratory and
 Cardiovascular. A proven team player with excellent interpersonal and
 communication skills.
+
+[LinkedIn](www.linkedin.com/in/eric-odongo-84177ba2)
+[GitHub](https://github.com/rikoprogrammer)
 
 ## Educational Background
 
