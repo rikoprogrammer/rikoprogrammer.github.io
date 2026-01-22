@@ -1,9 +1,4 @@
 
-
-
-# WELCOME TO MY WEBSITE
-
-
 <p align="center">
   <img src="images/passport.jpg" width = "50%" alt="Placeholder centered image" style="margin: 0 auto; display: block;">
 </p>
