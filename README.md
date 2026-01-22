@@ -28,6 +28,8 @@ Other platforms that you can find me include LinkedIn and GitHub:
 
 [GitHub](https://github.com/rikoprogrammer)
 
+Or take a look at my full resume [here](docs/Eric%20Odongo%20CV_SP2.pdf)
+
 ## Educational Background
 
 - Msc in Statistical Science - Strathmore University (2023 - 2026)
