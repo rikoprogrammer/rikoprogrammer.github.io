@@ -1,13 +1,17 @@
 
-# Welcome to my personal website
 
-![](images/passport.jpg)
+
+# WELCOME TO MY WEBSITE
+
+
+<p align="center">
+  <img src="images/passport.jpg" width = "50%" alt="Placeholder centered image" style="margin: 0 auto; display: block;">
+</p>
+
 
 ## Professional Summary
 
-I am a dedicated and detail-oriented Statistical Programmer with 6+ years of proven
-track record in designing, implementing, and validating statistical models
-to extract meaningful insights from complex data sets. Hands-on experience in
+I am a dedicated and detail-oriented Statistical Programmer/Statistician with 6+ years of proven track record in designing, implementing, and validating statistical models to extract meaningful insights from complex data sets. Hands-on experience in
 conducting statistical programming for clinical trial research projects within
 Contract Research Organizations (CROs). 
 
@@ -17,9 +21,10 @@ Skilled in data management, including the review and update of
 dataset specifications for efficacy and non-efficacy studies.
 
 Skilled at developing and implementing statistical models to enhance risk
-management and fraud detection strategies. 
-Therapeutic Area Experience: Oncology, Pediatrics, Respiratory and
-Cardiovascular. A proven team player with excellent interpersonal and
+management, predict loan default, and fraud detection strategies in the banking sector.
+
+**Therapeutic Area Experience:** *Oncology*, *Pediatrics*, *Respiratory* and
+*Cardiovascular*. A proven team player with excellent interpersonal and
 communication skills.
 
 Other platforms that you can find me include LinkedIn and GitHub:
