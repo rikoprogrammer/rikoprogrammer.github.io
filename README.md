@@ -28,7 +28,7 @@ Other platforms that you can find me include LinkedIn and GitHub:
 
 [GitHub](https://github.com/rikoprogrammer)
 
-Or take a look at my full resume [here](docs/Eric%20Odongo%20CV_SP2.pdf)
+Or take a look at my full resume [here](docs/Eric%20Odongo%20CV_SP2.pdf).
 
 ## Educational Background
 
@@ -38,11 +38,13 @@ Or take a look at my full resume [here](docs/Eric%20Odongo%20CV_SP2.pdf)
 
 ## Work Experience
 
-- Senior Statistical Programmer - IQVIA - Nov 2025 to date
-- Senior Data Scientist - Co-op Bank - May - Nov 2025
-- Senior Statistical Programmer - Keyrus Life Science - March 2025 - Sep 2025
-- Statistical Programmer - MainAnalytics GmbH - May 2024 - March 2025
-- Statistical Programmer - Phastar - Feb 2021 - March 2024
+- Senior Statistical Programmer - **IQVIA** - Nov 2025 to date
+- Senior Data Scientist - **Co-op Bank** - May 2025 - Nov 2025
+- Senior Statistical Programmer - **Keyrus Life Science** - March 2025 - Sep 2025
+- Statistical Programmer - **MainAnalytics GmbH** - May 2024 - March 2025
+- Statistical Programmer - **Phastar** - Feb 2021 - March 2024
+- Salesforce Consultant - **Uwazi Consulting** - May 2020 - Jan 2021
+- Junior Data Scientist - **Absa Bank** - Nov 2019 - April 2020
 
 ## Personal Projects
 
@@ -56,15 +58,14 @@ upload their data and try out a number of statistical and machine learning model
 
 ### Book project
 
-I am currently working on a book that teaches people how to perform statistical
-programming in the pharmaceutical industry using R programming language.
+I am currently writing a book that teaches people how to perform statistical
+programming activities in the pharmaceutical industry using the R programming language. You can view the development version of the book below.
 
 [Book](https://statsprogrammingbook.netlify.app/)
 
 ### Consulting Firm
 
-I am currently setting up a consulting firm where I will be offering statistical consultancy services in Data Science,
-clinical trials, and other data related topics.
+I am currently setting up a consulting firm where I will be offering statistical consultancy services in Data Science, clinical trials, and other data related topics. This will give me a good platform to share my knowledge and experiences gained so far in my professional and academic life.
 
 
 [EPM](https://epm-square-analytics.netlify.app/)
