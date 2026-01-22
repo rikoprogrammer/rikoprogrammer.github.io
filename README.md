@@ -1,6 +1,8 @@
 
 # Welcome to my personal website
 
+![](images/passport.jpg)
+
 ## Professional Summary
 
 I am a dedicated and detail-oriented Statistical Programmer with 6+ years of proven
